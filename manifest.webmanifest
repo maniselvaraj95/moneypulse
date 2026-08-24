@@ -1,12 +1,14 @@
 {
   "name": "MoneyPulse",
   "short_name": "MoneyPulse",
+  "description": "Private personal finance tracker",
   "id": "./",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0f172a",
-  "theme_color": "#f59e0b",
+  "background_color": "#fbf6f2",
+  "theme_color": "#dc6b50",
+  "orientation": "any",
   "icons": [
     {
       "src": "icons/icon-192.png",

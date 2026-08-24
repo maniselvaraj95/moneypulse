@@ -1,2 +1,2 @@
-# MoneyPulse PWA v2
-Replace config placeholders with the existing Google Web Client ID and Apps Script `/exec` URL. Never add a client secret, Gmail address, Sheet ID, identity token, CSV data, or financial data to this repository.
+# MoneyPulse warm PWA v3
+Edit config.js with the existing public Web Client ID and Apps Script /exec URL. Never add a client secret, Sheet ID, Gmail allowlist, identity token, or financial file to GitHub.
