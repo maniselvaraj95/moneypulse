@@ -1,2 +1,2 @@
-# MoneyPulse warm PWA v3
-Edit config.js with the existing public Web Client ID and Apps Script /exec URL. Never add a client secret, Sheet ID, Gmail allowlist, identity token, or financial file to GitHub.
+# MoneyPulse v4
+Warm responsive finance PWA. Edit config.js only with the existing public Web Client ID and Apps Script /exec URL.
