@@ -1,18 +1,12 @@
 {
   "name": "MoneyPulse",
   "short_name": "MoneyPulse",
-  "description": "Private personal finance tracker backed by Google Sheets.",
   "id": "./",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "display_override": [
-    "standalone",
-    "minimal-ui"
-  ],
   "background_color": "#0f172a",
   "theme_color": "#f59e0b",
-  "orientation": "any",
   "icons": [
     {
       "src": "icons/icon-192.png",
