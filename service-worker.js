@@ -1,4 +1,4 @@
-const CACHE_NAME = "moneypulse-modern-v8";
+const CACHE_NAME = "moneypulse-integrated-v9";
 
 const STATIC_ASSETS = [
   "./",
@@ -8,10 +8,8 @@ const STATIC_ASSETS = [
   "./offline.html",
 
   "./css/styles.css",
-  "./ui-v8-patch.css",
 
   "./js/app.js",
-  "./ui-v8-patch.js",
 
   "./icons/icon-192.png",
   "./icons/icon-512.png",
