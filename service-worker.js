@@ -1,4 +1,4 @@
-const CACHE_NAME = "moneypulse-integrated-v9";
+const CACHE_NAME = "moneypulse-integrated-v9-login-fix";
 
 const STATIC_ASSETS = [
   "./",
